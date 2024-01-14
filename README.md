@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="/web102_prework/assets/SeaMonster.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/Samin-A1/web102_prework/blob/41e98063b8e6ce60a6eaaa168b5574d2e384393b/assets/SeaMonster.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/).   
@@ -35,9 +35,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-    At first I wasn't entirely sure how to use the json file which caused a lot of hiccups at the beginning. However, as soon as I got the hang of it, the rest of the process was mostly smooth sailing. Overall, I learned a lot from this and I plan on continuing my practice of those concepts I learned in order to get better at using them.
+At first I wasn't entirely sure how to use the json file which caused a lot of hiccups at the beginning. However, as soon as I got the hang of it, the rest of the process was mostly smooth sailing. Overall, I learned a lot from this and I plan on continuing my practice of those concepts I learned in order to get better at using them.
 
 ## License
 
