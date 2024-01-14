@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width">
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Sea Monster</title>
+    <link rel="icon" type="image/x-icon" href="assets/tentacles.png">
   </head>
 
   <body>
@@ -14,13 +16,15 @@
     </div>
 
     <!-- background info about company -->
-    <h2>Welcome to Sea Monster!</h2>
-    <div id="description-container">
-        <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
+    <div id="description">
+        <h2>Welcome to Sea Monster!</h2>
+        <div id="description-container">
+            <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
+        </div>
     </div>
 
     <!-- top games & other interesting stats -->
-    <h2>Stats</h2>
+    <h2 style="text-align: center; color:white;font-size: 40px;text-shadow: 1px 1px black;">Stats</h2>
     <div class="stats-container">
         <div class="stats-card">
             <h3>Individual Contributions</h3>
@@ -48,15 +52,19 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
+    <div id = "our-games">
     <h2>Our Games</h2>
     <p>Check out each of our games below!</p>
+    </div>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
         <button id="funded-btn">Show Funded Only</button>
         <button id="all-btn">Show All Games</button>
     </div>
+    <div id="search-bar">
+        <input type = "text" placeholder="Search all games..." id="searchInput">
+    </div>
     <div id="games-container">
-
     </div>
 
     <script type="module" src="index.js"></script>
