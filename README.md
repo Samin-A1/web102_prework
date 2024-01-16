@@ -15,10 +15,22 @@ The following **required** functionality is completed:
 * [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
+Background + Stats:
+
+<img src="https://github.com/Samin-A1/web102_prework/blob/34b8c6ce31fdfe92fb60c144cfe50c489d06726e/assets/SeaMonsterStats.gif" title="Company Background and Stats" width='400px' alt='Company Background and Stats' />
+
+Games + Buttons:
+
+<img src="https://github.com/Samin-A1/web102_prework/blob/34b8c6ce31fdfe92fb60c144cfe50c489d06726e/assets/SeaMonsterGames.gif" title="Games Container and Buttons" width='400px' alt='Games Container and Buttons' />
+
 The following **optional** features are implemented:
 
 * [X] Added Search Bar to search within all games.
 * [X] Added and modified CSS to improve website readability.
+
+Search:
+
+<img src="https://github.com/Samin-A1/web102_prework/blob/34b8c6ce31fdfe92fb60c144cfe50c489d06726e/assets/SeaMonsterSearch.gif" title="Search Feature" width='400px' alt='Search Feature' />
 
 ## Video Walkthrough
 
